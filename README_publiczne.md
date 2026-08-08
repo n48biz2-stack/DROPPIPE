@@ -22,8 +22,8 @@ użytkowników innych niż konta własne operatora.
 
 ## Kontakt
 
-Operator: [NAZWA_PODMIOTU]
-E-mail: [ADRES_KONTAKTOWY]
+Operator: [Nikolas Bułka]
+E-mail: [n48ubiz@gmail.com]
 
 W sprawach dotyczących ruchu generowanego przez tę aplikację prosimy
 o kontakt na powyższy adres.
@@ -31,10 +31,10 @@ o kontakt na powyższy adres.
 ## Identyfikator User-Agent
 
 Aplikacja przekazuje w każdym żądaniu do Allegro REST API nagłówek
-User-Agent w formacie:
+User-Agent w formacie: DROPPP/1.0.0 (+https://github.com/n48biz2-stack/DROPPIPE)
 
 ```
-[NAZWA_APLIKACJI]/[WERSJA] (+[ADRES_TEJ_STRONY])
+[DROPP]/[1] (+[https://github.com/n48biz2-stack/DROPPIPE])
 ```
 
 zgodnie z art. 3.4(c) Regulaminu REST API Allegro.
